@@ -1,5 +1,5 @@
 {
   "api": "https://your-rx-api.com",
   "baby": "https://rx-simisimi-api-tllc.onrender.com",
-  "maria": "https://rx-simisimi-api-tllc.onrender.com"
+  "mentionapi": "https://rx-mention-api.onrender.com"
 }
