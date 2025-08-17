@@ -1,5 +1,6 @@
 {
   "api": "https://www.noobs-api.top/dipto",
   "baby": "https://rx-simisimi-api-tllc.onrender.com",
-  "mentionapi": "https://rx-mention-api.onrender.com"
+  "mentionapi": "https://rx-mention-api.onrender.com",
+  "rules": "https://rx-rules-api.onrender.com"
 }
