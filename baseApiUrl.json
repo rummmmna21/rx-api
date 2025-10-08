@@ -3,6 +3,6 @@
   "baby": "https://rx-simisimi-api-tllc.onrender.com",
   "mentionapi": "https://rx-mention-api.onrender.com",
   "rules": "https://rx-rules-api.onrender.com/rules", 
-  "rx": "rx-simisimi-api.vercel.app​", 
+  "rx": "https://rx-simisimi-api-tllc.onrender.com​", 
   "truthdare": "https://true-false-api-9cq3.onrender.com/truthdare"
 }
