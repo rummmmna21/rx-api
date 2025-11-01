@@ -1,9 +1,9 @@
 {
   "api": "https://www.noobs-api.rf.gd/dipto",
-  "baby": "https://cyber-ninjas.top",
+  "baby": "https://api.cyber-ninjas.top",
   "mentionapi": "https://tag.cyber-ninjas.top",
   "rules": "https://rx-rules-api.onrender.com/rules", 
-  "rx": "https://cyber-ninjas.top", 
+  "rx": "https://api.cyber-ninjas.top", 
   "truthdare": "https://true-false-api-9cq3.onrender.com/truthdare",
-  "voice": "https://cyber-ninjas.top"
+  "voice": "https://api.cyber-ninjas.top"
 }
